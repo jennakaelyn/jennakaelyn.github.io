@@ -225,7 +225,7 @@ header .intro-text {
 	position: relative;
 }
 #about .about-img:before {
-	display: block;
+	display: inline-block;
 	content: '';
 	position: absolute;
 	top: 8px;
@@ -308,7 +308,7 @@ header .intro-text {
 	position: relative;
 }
 #links .links-img:before {
-	display: block;
+	display: inline-block;
 	content: '';
 	position: absolute;
 	top: 8px;
