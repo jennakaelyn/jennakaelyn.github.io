@@ -586,9 +586,9 @@ ul.banner-social-buttons {
     padding: 0;
   }
   ul.banner-social-buttons li:last-child {
-    margin-bottom: 0;
+    margin-bottom: 50px;
   }
-}
+}	
 /* Footer Section*/
 #footer {
 	background: #262626;
