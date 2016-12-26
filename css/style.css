@@ -570,6 +570,25 @@ color: #777;
 #contact .contact-item p {
 	font-size: 16px;
 }
+/* Social Buttons */
+ul.banner-social-buttons {
+  margin-top: 0;
+}
+@media (max-width: 1199px) {
+  ul.banner-social-buttons {
+    margin-top: 15px;
+  }
+}
+@media (max-width: 767px) {
+  ul.banner-social-buttons li {
+    display: block;
+    margin-bottom: 20px;
+    padding: 0;
+  }
+  ul.banner-social-buttons li:last-child {
+    margin-bottom: 0;
+  }
+}
 /* Footer Section*/
 #footer {
 	background: #262626;
