@@ -213,13 +213,11 @@ header .intro-text {
 /* About Section */
 #about {
 	padding: 120px 0;
-	font-size: 0;
 }
 #about h3 {
 	font-size: 20px;
 }
 #about .about-text {
-	font-size: 16px;
 	margin-left: 10px;
 }
 #about .about-img {
@@ -298,12 +296,14 @@ header .intro-text {
 /* About Section */
 #links {
 	padding: 120px 0;
+	font-size: 0;
 }
 #links h3 {
 	font-size: 20px;
 }
 #links .links-text {
 	margin-left: 10px;
+	font-size: 16px;
 }
 #links .links-img {
 	display: inline-block;
