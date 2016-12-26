@@ -606,7 +606,7 @@ ul.banner-social-buttons {
 }
 @media (max-width: 1199px) {
   ul.banner-social-buttons {
-    margin-top: 15px;
+    margin-top: 7px;
   }
 }
 @media (max-width: 767px) {
@@ -616,7 +616,7 @@ ul.banner-social-buttons {
     padding: 0;
   }
   ul.banner-social-buttons li:last-child {
-    margin-bottom: 50px;
+    margin-bottom: 0px;
   }
 }	
 /* Footer Section*/
