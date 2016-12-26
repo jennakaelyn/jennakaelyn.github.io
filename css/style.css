@@ -101,7 +101,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 #menu a.navbar-brand {
 	font-family: 'Dancing Script', cursive;
 	font-size: 36px;
-	color: #6a99b0;
+	color: #transparent;
 	font-weight: 700;
 	letter-spacing: 1px;
 }
