@@ -99,9 +99,9 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	border-color: rgba(231, 231, 231, 0);
 }
 #menu a.navbar-brand {
-	font-family: 'Dancing Script', cursive;
+	font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 36px;
-	color: #transparent;
+	color: transparent;
 	font-weight: 700;
 	letter-spacing: 1px;
 }
@@ -187,7 +187,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	background: rgba(0,0,0,0.4);
 }
 .intro h1 {
-	font-family: 'Dancing Script', cursive;
+	font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #fff;
 	font-size: 10em;
 	font-weight: 700;
