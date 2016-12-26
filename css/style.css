@@ -219,6 +219,7 @@ header .intro-text {
 }
 #about .about-text {
 	margin-left: 10px;
+	padding-left: 120px;
 }
 #about .about-img {
 	display: inline-block;
