@@ -292,6 +292,36 @@ header .intro-text {
 	margin-top: -26px;
 }
 
+
+/* About Section */
+#links {
+	padding: 120px 0;
+}
+#links h3 {
+	font-size: 20px;
+}
+#links .links-text {
+	margin-left: 10px;
+}
+#links .links-img {
+	display: inline-block;
+	position: relative;
+}
+#links .links-img:before {
+	display: block;
+	content: '';
+	position: absolute;
+	top: 8px;
+	right: 8px;
+	bottom: 8px;
+	left: 8px;
+	border: 1px solid rgba(255, 255, 255, 0.5);
+}
+#links p {
+	line-height: 24px;
+	margin: 15px 0 30px;
+}
+
 /* Portfolio Section */
 #portfolio {
 	padding: 0 0 120px 0;
