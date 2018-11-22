@@ -105,7 +105,16 @@ address {
 }
 
 ol,
-ul,
+ul {
+  list-style-position: inside;
+  list-style-type: square;
+}
+
+li {
+  list-style-position: inside;
+  list-style-type: square;
+}
+
 dl {
   margin-top: 0;
   margin-bottom: 1rem;
@@ -479,8 +488,10 @@ mark,
 }
 
 .img-fluid {
-  max-width: 100%;
+  max-width: 75%;
   height: auto;
+  display: block;
+  margin: 0 auto;
 }
 
 .img-thumbnail {
