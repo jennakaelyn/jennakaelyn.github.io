@@ -51,6 +51,7 @@ a:focus {
 }
 
 ul {
+	margin-top: 5px;
 	list-style-position: inside;
 }
 
@@ -179,11 +180,11 @@ ol {
 
 .hero-info {
   position: relative;
-  top: 17%;
-  left: 10%;
+  top: 15%;
   	margin-left: auto;
 	margin-right: auto;
 	display: block;
+	width: 350px;
 }
 
 .hero-info h3 {
