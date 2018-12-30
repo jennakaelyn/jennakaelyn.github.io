@@ -181,14 +181,8 @@ ol {
 }
 
 .hero-info {
-<<<<<<< HEAD
   position: relative;
   top: 15%;
-=======
-  	position: relative;
-  	top: 17%;
-  	left: 10%;
->>>>>>> parent of 461f6b8... info text change after spotify playlist
   	margin-left: auto;
 	margin-right: auto;
 	display: block;
